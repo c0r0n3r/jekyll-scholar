@@ -90,6 +90,7 @@ module Jekyll
         'techreport' => 'Technical Reports',
         'misc' => 'Miscellaneous',
         'unpublished' => 'Unpublished',
+        'online' => 'Online Articles',
       },
       'type_aliases' => {
         'phdthesis' => 'thesis',
